@@ -1,4 +1,4 @@
-# Substrate Node Template
+# Setheum Substrate Chain
 
 A new Substrate node, ready for hacking. This node includes:
 
